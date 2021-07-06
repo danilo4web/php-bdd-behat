@@ -1,0 +1,14 @@
+{
+    "name": "danilo/php-bdd-behat",
+    "description": "PHP BDD - API Testing and Validation",
+    "require": {
+        "behat/behat": "^3.8",
+        "guzzlehttp/guzzle": "^7.3"
+    },
+    "authors": [
+        {
+            "name": "Danilo Pereira",
+            "email": "danilo4web@gmail.com"
+        }
+    ]
+}
